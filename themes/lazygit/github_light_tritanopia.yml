@@ -1,0 +1,22 @@
+# (Github Light Tritanopia) Colors for lazygit
+
+theme:
+  activeBorderColor:
+    - '#0969da'
+    - bold
+  inactiveBorderColor:
+    - '#d0d7de'
+  optionsTextColor:
+    - '#57606a'
+  selectedLineBgColor:
+    - '0xbbdfff'
+  cherryPickedCommitBgColor:
+    - '#ffffff'
+  cherryPickedCommitFgColor:
+    - '#0969da'
+  unstagedChangesColor:
+    - '#cf222e'
+  defaultFgColor:
+    - '#24292f'
+  searchingActiveBorderColor:
+    - '#9a6700'

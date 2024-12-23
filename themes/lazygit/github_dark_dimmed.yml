@@ -1,0 +1,22 @@
+# (Github Dark Dimmed) Colors for lazygit
+
+theme:
+  activeBorderColor:
+    - '#316dca'
+    - bold
+  inactiveBorderColor:
+    - '#444c56'
+  optionsTextColor:
+    - '#768390'
+  selectedLineBgColor:
+    - '0x2e4c77'
+  cherryPickedCommitBgColor:
+    - '#2d333b'
+  cherryPickedCommitFgColor:
+    - '#316dca'
+  unstagedChangesColor:
+    - '#c93c37'
+  defaultFgColor:
+    - '#adbac7'
+  searchingActiveBorderColor:
+    - '#966600'

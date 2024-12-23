@@ -5,6 +5,7 @@ import fzf from "./fzf";
 import iterm from "./iterm";
 import kitty from "./kitty";
 import konsole from "./konsole";
+import lazygit from "./lazygit";
 import tmux from "./tmux";
 import wezterm from "./wezterm";
 import windows_terminal from "./windows_terminal";
@@ -19,6 +20,7 @@ export default {
   iterm,
   kitty,
   konsole,
+  lazygit,
   tmux,
   wezterm,
   windows_terminal,
